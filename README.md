@@ -11,3 +11,7 @@ set FLASK_APP=app
 A futtatáshoz írd be: flask run
 Ezt követően a console-ban található linkre kattintva elindul a webappod
 CRUD alapműveleteket használja.
+
+
+Fontos!!! Mivel a tananyag kezdőknek szól és elsősorban az Python Flask webapplikáció működésének megértése a cél, így bizonyos részeknél a tiszta kódolás elvei, 
+illetve más erőforrásbarát megoldások, illetve a biztonság nem feltétlenül érvényesültek. Ebből adódóan kizárólag tanulás során javasolt ezeket a megoldásokat használni, éles környezetben semmiképpen!
